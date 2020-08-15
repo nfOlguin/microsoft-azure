@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "coreproj/bin/Release/netcoreapp3.1/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a6a31df6-ac36-410f-ab35-5e764b00e6c2/resourceGroups/group-nf/providers/Microsoft.Web/sites/webapp5000"
+}
